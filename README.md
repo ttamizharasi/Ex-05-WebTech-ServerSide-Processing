@@ -30,7 +30,7 @@ Mention the path of the website in urls.py.
 Publish the website in the given URL
 
 # PROGRAM:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -145,7 +145,7 @@ urlpatterns = [
 path('admin/', admin.site.urls),
 path('area/',views.rectarea),
 ]
-
+```
 # OUTPUT:
 
 ![214056597-8919b207-2498-45af-a42a-c4443680d8ed](https://user-images.githubusercontent.com/119657317/215989451-683992e6-6d48-428e-afa0-736911b36377.png)
