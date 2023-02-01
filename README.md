@@ -147,10 +147,7 @@ path('area/',views.rectarea),
 ]
 ```
 # OUTPUT:
-
-![214056597-8919b207-2498-45af-a42a-c4443680d8ed](https://user-images.githubusercontent.com/119657317/215989451-683992e6-6d48-428e-afa0-736911b36377.png)
-
-
+![out_5](https://user-images.githubusercontent.com/119657317/215991563-c6e799b1-bad5-4d3f-b94b-80040461156d.png)
 
 # RESULT:
 
