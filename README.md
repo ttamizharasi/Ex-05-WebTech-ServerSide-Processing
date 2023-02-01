@@ -30,7 +30,7 @@ Mention the path of the website in urls.py.
 Publish the website in the given URL
 
 # PROGRAM:
-```
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -106,9 +106,6 @@ Breadth=<input type="text" name="breadth" value=" "></input></br>
 area=<input type="text" name="area" value=" "></input></br>
 </div>
 <br>
-<div class="footer">
-Developed by SIRISHA 22003264
-</div>
 </form>
 </body>
 </html>
@@ -145,11 +142,9 @@ urlpatterns = [
 path('admin/', admin.site.urls),
 path('area/',views.rectarea),
 ]
-```
+
 # OUTPUT:
-
-![214056597-8919b207-2498-45af-a42a-c4443680d8ed](https://user-images.githubusercontent.com/119657317/215989451-683992e6-6d48-428e-afa0-736911b36377.png)
-
+![out_5](https://user-images.githubusercontent.com/119657317/215990913-a860e9ed-094c-4a71-818c-453e19e1806d.png)
 
 
 # RESULT:
